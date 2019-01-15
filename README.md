@@ -6,6 +6,7 @@ https://cspiration.com/leetcodeClassification#10301
 #### Base Level
 <li>
 27 Remove Element
+26 Remove Duplicates from Sorted Array
 </li>
 #### Upper Level
 <li>
