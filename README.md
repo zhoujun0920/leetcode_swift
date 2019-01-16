@@ -4,12 +4,16 @@ https://cspiration.com/leetcodeClassification#10301
 
 ### 1.1 Array
 #### Base Level
-<li>
-27 Remove Element
-26 Remove Duplicates from Sorted Array
-</li>
-#### Upper Level
-<li>
+  * 27 Remove Element
 
-</li>
+  * 26 Remove Duplicates from Sorted Array
+
+  * <mark>80 Remove Duplicates from Sorted Array II</mark>
+
+  * 277 Find the Celebrity
+
+#### Upper Level
+
+
+
 ### 1.2 String
